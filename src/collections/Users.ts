@@ -14,6 +14,11 @@ const Users: CollectionConfig = {
       type: "text",
       label: "Name",
     },
+    {
+      name: "role",
+      type: "text",
+      label: "Role",
+    },
   ],
 };
 
